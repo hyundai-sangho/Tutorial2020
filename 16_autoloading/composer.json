@@ -1,0 +1,17 @@
+{
+  "name": "cho/autoloading",
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "조상호",
+      "email": "hyundai_sangho@naver.com"
+    }
+  ],
+  "require": {
+    "monolog/monolog": "^2.8"
+  }
+}
